@@ -1,0 +1,24 @@
+body{
+  background-color:#f7f7f7;
+}
+
+nav.navbar.navbar-default{
+  background-color:#ecaa09;
+}
+
+div h3{
+  text-align:center;
+}
+
+div p{
+  font-size:179px;
+  text-align:center;
+  color:#d84b03;
+}
+
+div p span{
+  font-size:29px;
+  font-weight:700;
+  color:#5c5356;
+}
+
